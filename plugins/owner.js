@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Owner Althaf Rahman═💥*\n\n*💘 https://github.com/althaf404/v4*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
+        r_text[1] = "*Git links*\n           *\n💥═Owner SALMAN═💥*\n\n*💘 https://github.com/salman1ramos/v4*\n*     *\n follow on Instagram- https://instagram.com/srfx.mp4,https://instagram.com/salman_r.4 *"
 
     
 
