@@ -56,8 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner Althaf Rahman - http://Wa.me/+918592803101*\n* *\n🔰instagram:- https://www.instagram.com/althaf404_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
-
+    r_text[1] = "*owner SALMAN - http://Wa.me/+919072814956 *\n* *\n🔰instagram:- https://instagram.com/srfx.mp4,https://instagram.com/salman_r.4*\n    *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: SALMAN*" 
     
 
     await message.client.sendMessage(
